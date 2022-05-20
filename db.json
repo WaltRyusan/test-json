@@ -1,7 +1,6 @@
 {
   "posts": [
-    { "id": 1,
-      "response": "OK" }
+    { "response": "OK" }
   ],
   "comments": [
     { "id": 1,
